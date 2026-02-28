@@ -67,7 +67,7 @@ font-family: ‘Crimson Pro’, Georgia, serif;
 background: var(–bg);
 color: var(–text);
 min-height: 100vh;
-font-size: 18px;
+font-size: 22px;
 line-height: 1.5;
 overflow-x: hidden;
 }
